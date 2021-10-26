@@ -7,13 +7,11 @@ If you are going to use any of my voicebanks, please give me credits
 Hola! soy TehPurpleSpartan, el creador de varios covers y estos voicebanks
 
 
-Soy tal chico que hace voicebanks de caricaturas animadas o cualquier estupidez que se me ocurra
-
-
-Re innecesario
+Aqui encontrarás voicebanks de cualquier caricatura o youtuber.
 
 
 Los voicebanks son funcionales en UTAU, no creo que los pueda extender para Fl Studio
+
 
 No conoces UTAU? Te lo puedes descargar GRATUITAMENTE desde este link: http://utau2008.xrea.jp/ (solo para PC)
 
