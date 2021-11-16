@@ -1,7 +1,7 @@
-# TehPurpleSpartan_Voicebanks
+# TehPurpleSpartan Voicebanks
 If you are going to use any of my voicebanks, please give me credits
 -------------------------------------------------------------------------
-(README EN ESPAÑOL, POR FAVOR TRADUCELO)
+(README IN SPANISH, PLEASE TRANSLATE IT)
 
 
 Hola! soy TehPurpleSpartan, el creador de varios covers y estos voicebanks
