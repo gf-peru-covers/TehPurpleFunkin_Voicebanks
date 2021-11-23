@@ -1,4 +1,4 @@
-# TehPurpleSpartan Voicebanks
+# TehPurpleFunkin Voicebanks
 If you are going to use any of my voicebanks, please give me credits
 -------------------------------------------------------------------------
 (README IN SPANISH, PLEASE TRANSLATE IT)
